@@ -3,7 +3,8 @@
 <body>
 
 <?php 
-
+$waarde = nassim;
+echo $nassim
 ?>
     
 </body>
