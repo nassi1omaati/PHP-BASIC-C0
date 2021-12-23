@@ -4,7 +4,7 @@
 
 <?php 
 $waarde = nassim;
-echo $nassim
+echo $waarde
 ?>
     
 </body>
