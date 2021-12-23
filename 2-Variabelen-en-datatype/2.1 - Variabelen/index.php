@@ -4,8 +4,8 @@
 
 <?php
 $waarde = 0;
-echo $waarde;
+echo $waarde
 ?>
 
 </body>
-</html>
+</html> 
