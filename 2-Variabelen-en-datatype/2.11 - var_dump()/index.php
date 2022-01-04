@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-     $waarde = "Bond, James Bond";
+     $waarde = "three that's an magic number";
      echo var_dump($waarde);
     ?>
 </body>
