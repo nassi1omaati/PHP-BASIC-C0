@@ -9,7 +9,7 @@
 <body>
    <?php
    $getal1= 1;
-   $getal2 = 68;
+   $getal2 = 419;
    echo $getal1 + $getal2;
    
    ?> 
