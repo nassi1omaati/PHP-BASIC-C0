@@ -9,7 +9,7 @@
 <body>
 <?php
 $test1 = 5;
-$test2 = "gewoon tekst";
+$test2 = "iets";
 var_dump($test1 == $test2);
 var_dump($test1 === $test2);
 var_dump($test1 != $test2);
@@ -18,6 +18,7 @@ var_dump($test1 < $test2);
 var_dump($test1 <> $test2);
 var_dump($test1 >= $test2);
 var_dump($test1 <= $test2); 
+?>
 </body>
 </html>
 ?>
