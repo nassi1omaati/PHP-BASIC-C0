@@ -11,7 +11,7 @@
 $voornaam1 = "Nassim";
 $voornaam2 = "Anass";
 $voornaam3 = "Recep";
-echo "<li>$voornaam1</li><li>$voornaam2</li><li>$voornaam3</li>";
+echo "<ul> <li>$voornaam1</li> <li>$voornaam2</li> <li>$voornaam3</li> <ul>";
     ?>
 </body>
 </html>
