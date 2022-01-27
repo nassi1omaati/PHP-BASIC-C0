@@ -5,8 +5,8 @@
 </head>
 <body>
 <?php
-$stringo = "a string of words";
-echo gettype($stringo);
+$string = "a string of words";
+echo gettype($string);
 ?>
 
 <?php
